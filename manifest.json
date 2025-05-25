@@ -1,11 +1,12 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "geminiNote",
+	"name": "Gemini-Note",
+	"version": "0.5.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Plugin de notas con integración de IA para Obsidian",
+	"author": "https://github.com/JuanJml01",
+	"authorUrl": "",
+	"repo": "JuanJml01/geminiNote",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }
